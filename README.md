@@ -20,9 +20,9 @@ This tutorial outlines the implementation of building a Virtual Machine (VM) wit
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create Azure account
-- Step 2
-- Step 3
-- Step 4
+- Create Resource Group
+- Create Virtual Machine
+- Access Virtual Machine with Remote Desktop
 
 <h2>Deployment and Configuration Steps</h2>
 
