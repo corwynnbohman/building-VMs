@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating and using Virutal Machines in Microsoft Azure</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of building a Virtual Machine (VM) within Azure.<br />
 
 
 <h2>Environments and Technologies Used</h2>
