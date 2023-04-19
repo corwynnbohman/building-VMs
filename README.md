@@ -38,6 +38,7 @@ In portal.azure.com, navigate to Resource groups, select Create, name your resou
 <br />
 Navigate to Virtual Machines, select Create and then Azure Virtual Machine: <br/>
 <img src="https://i.imgur.com/4kMk4m1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 <br />
 <br />
+Select the previously created resource group, name the VM, select Windows 10 Pro, choose a size with 2 vcpus: <br/>
+<img src="https://i.imgur.com/HlxMmxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
