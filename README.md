@@ -37,5 +37,6 @@ In portal.azure.com, navigate to Resource groups and select Create:  <br/>
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/4kMk4m1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xsHoaxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
