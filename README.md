@@ -31,12 +31,13 @@ Visit azure.microsoft.com, select start free, enter account and payment details 
 <img src="https://i.imgur.com/89Que0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-In portal.azure.com, navigate to Resource groups and select Create:  <br/>
+In portal.azure.com, navigate to Resource groups, select Create, name your resource group and select the region closest to you:  <br/>
 <img src="https://i.imgur.com/GE9mjOM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/4kMk4m1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/xsHoaxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Navigate to Virtual Machines, select Create and then Azure Virtual Machine: <br/>
+<img src="https://i.imgur.com/4kMk4m1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
