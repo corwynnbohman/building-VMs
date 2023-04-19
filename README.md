@@ -33,6 +33,7 @@ Visit azure.microsoft.com, select start free, enter account and payment details 
 <br />
 In portal.azure.com, navigate to Resource groups, select Create, name your resource group and select the region closest to you:  <br/>
 <img src="https://i.imgur.com/GE9mjOM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <img src="https://i.imgur.com/xsHoaxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -42,3 +43,7 @@ Navigate to Virtual Machines, select Create and then Azure Virtual Machine: <br/
 <br />
 Select the previously created resource group, name the VM, select Windows 10 Pro, choose a size with 2 vcpus: <br/>
 <img src="https://i.imgur.com/HlxMmxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create a username and password that you will remember and check the Licensing box at the end: <br/>
+<img src="https://i.imgur.com/z2WigCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
