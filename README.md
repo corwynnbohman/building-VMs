@@ -34,6 +34,7 @@ Visit azure.microsoft.com, select start free, enter account and payment details 
 In portal.azure.com, navigate to Resource groups, select Create:  <br/>
 <img src="https://i.imgur.com/GE9mjOM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
+<br/>
 Name your resource group and select the region closest to you: <br/>
 <img src="https://i.imgur.com/xsHoaxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -48,3 +49,13 @@ Select the previously created resource group, name the VM, select Windows 10 Pro
 <br />
 Create a username and password that you will remember, check the Licensing box at the end, and select review & create: <br/>
 <img src="https://i.imgur.com/z2WigCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Find your new virtual muchine from the Azure portal menu, in your windows search bar type and launch remote desktop, <br/>
+enter the I.P. address listed in your VM and click connect, if a security propmt appears select accept: <br/>
+<img src="https://i.imgur.com/AyXISF5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+You should now be in your VM which is set up like a normal windows PC, recognize the bar at the top, <br/>
+this should list the I.P. you just entered and it can be used to exit the VM and return to your desktop: <br/>
+<img src="https://i.imgur.com/JYr2clN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
