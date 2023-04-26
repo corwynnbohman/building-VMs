@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating and using Virutal Machines in Microsoft Azure</h1>
-This project outlines the implementation of building a Virtual Machine (VM) within Azure.<br />
+This project outlines the implementation of building a Virtual Machine (VM) within Azure. The tools within Azure will allow you to create and access the necessary tools for operating Virtual Machines. <br />
 
 
 <h2>Environments and Technologies Used</h2>
