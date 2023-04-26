@@ -57,5 +57,5 @@ enter the I.P. address listed in your VM and click connect, if a security propmt
 <br />
 <br />
 You should now be in your VM which is set up like a normal windows PC, recognize the bar at the top, <br/>
-this should list the I.P. you just entered and it can be used to exit the VM and return to your desktop: <br/>
+this should list the I.P. you have entered and controls to exit the VM and return to your desktop: <br/>
 <img src="https://i.imgur.com/JYr2clN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
