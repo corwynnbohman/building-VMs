@@ -45,5 +45,5 @@ Select the previously created resource group, name the VM, select Windows 10 Pro
 <img src="https://i.imgur.com/HlxMmxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a username and password that you will remember and check the Licensing box at the end: <br/>
+Create a username and password that you will remember, check the Licensing box at the end, and select review & create: <br/>
 <img src="https://i.imgur.com/z2WigCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
